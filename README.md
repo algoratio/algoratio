@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Fritz and I'm working
 - on trading algorithms, option pricing
 - and retrieval of market data.
+- https://algoratio.com
  
 <!---
 algoratio/algoratio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
