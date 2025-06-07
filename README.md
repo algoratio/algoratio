@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Fritz and I'm working
 - on trading algorithms, option pricing
-- and retrieval of market data.
+- and retrieval of market data. My
+- academic background is in engineering
+- and economics.
 - https://algoratio.com
  
 <!---
