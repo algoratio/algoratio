@@ -13,7 +13,7 @@
 - Python, I also touched Java and Scala.
 -  
 - https://algoratio.com
-
+-
 - I offer consulting services. As an ultima
 - ratio to get in touch, I have one of those
 - contact forms:
